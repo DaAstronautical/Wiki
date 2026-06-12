@@ -14,14 +14,14 @@ You can find ACF on the Steam Workshop by clicking the button below...
 
 ...or by searching "ACF" in the Workshop search bar and clicking on **[ACF] Armored Combat Framework** by **ACF-3 Team**.
 
-{% include image.html src="installing_acf/workshop-search.png" %}
+{% include image.html src="installing_acf/workshop-search.png" width="25%" %}
 
 Click on the addon, then click **Subscribe**.
 
-{% include image.html src="installing_acf/workshop-subs.png" %}
+{% include image.html src="installing_acf/workshop-subs.png" width="25%" %}
 
 A pop-up may appear asking about **Additional Required Items**. Click **Subscribe to All**. These additional addons <u>must be downloaded for ACF to function.</u> 
 
-{% include image.html src="installing_acf/workshop-depends.png" %}
+{% include image.html src="installing_acf/workshop-depends.png" width="25%" %}
 
 ACF will then install. You may have to restart Garry's Mod after the download finishes.
